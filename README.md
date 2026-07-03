@@ -1,9 +1,11 @@
-To-Do List App
+**To-Do List App**
+
 A simple to-do list web application built with HTML5, CSS and JavaScript.
 This project allows users to manage their tasks, toggle between light
 and dark mode, remove a task and tick or cancel out tasks that have been done
 
-Features
+Features:
+
 Add new tasks
 Mark tasks as completed
 Delete tasks
@@ -11,12 +13,14 @@ Light and Dark mode toggle
 Saves tasks using Local Storage
 Remembers the selected theme after refreshing the page
 
-Technologies Used 
+Technologies Used: 
+
 HTML5
 CSS
 JavaScript
 
-How It Works
+How It Works:
+
 Type a task into the input field and click Add.
 Click a task to mark it as completed.
 Click the × icon to remove a task.
